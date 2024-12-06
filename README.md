@@ -34,7 +34,8 @@ CT 重建基于物体对 X 射线的衰减特性。从不同角度获取物体�
 五、补充材料
 1. MATLAB实现shepp-Logan头模型X-CT图像重建过程：https://www.jianshu.com/p/b53aab73642e
 2.代数重建算法步骤：
-![image](https://github.com/user-attachments/assets/406a4075-53c2-4b16-8cff-309f910658de)
+![image](https://github.com/user-attachments/assets/ab97f929-196c-4cff-a7c1-8851c99d703a)
+
 
 
 
